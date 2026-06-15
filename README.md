@@ -134,36 +134,6 @@ This ensured that both business objectives and user needs were incorporated into
 
 ## 🛠️ Tools & Methodologies
 
-Business Analysis
-
-* Business Requirements Gathering
-* Functional Requirements Documentation
-* Stakeholder Analysis
-* Process Mapping
-* User Story Creation
-* Acceptance Criteria Definition
-
-Product & Design
-
-* Figma
-* Wireframing
-* UI Prototyping
-
-Agile
-
-* Scrum
-* Sprint Planning
-* Product Backlog Management
-* Jira
-
-Documentation
-
-* Confluence
-* Markdown
-* PDF Documentation
-
-## 🛠️ Tools & Methodologies
-
 **Business Analysis:**  
 `BRD` `FRD` `Stakeholder Analysis` `Process Mapping` `Requirements Gathering`
 
@@ -185,6 +155,7 @@ Documentation
 - **UI/UX Design:** Figma, Wireframing, Interactive Prototyping
 - **Documentation:** Confluence, Markdown
 
+
 - ## 🛠️ Tools & Methodologies
 
 | Category | Skills & Tools |
@@ -194,6 +165,8 @@ Documentation
 | **Agile** | Scrum, Sprint Planning, Product Backlog Management, Jira |
 | **Design & Prototyping** | Figma, Wireframing, UI Prototyping |
 | **Documentation** | Confluence, Markdown, PDF Documentation |
+
+
 ⸻
 
 ## 📈 Key Outcomes
