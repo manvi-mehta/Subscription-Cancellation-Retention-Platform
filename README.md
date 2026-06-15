@@ -162,6 +162,38 @@ Documentation
 * Markdown
 * PDF Documentation
 
+## 🛠️ Tools & Methodologies
+
+**Business Analysis:**  
+`BRD` `FRD` `Stakeholder Analysis` `Process Mapping` `Requirements Gathering`
+
+**Agile:**  
+`Scrum` `Sprint Planning` `Jira` `Product Backlog`
+
+**Design:**  
+`Figma` `Wireframing` `UI Prototyping`
+
+**Documentation:**  
+`Confluence` `Markdown`
+
+
+## 🛠️ Skills Demonstrated
+
+- **Business Analysis:** Requirements Gathering, BRD, FRD, Stakeholder Analysis, Process Mapping
+- **Requirements Engineering:** User Stories, Acceptance Criteria, Functional Documentation
+- **Agile & Scrum:** Sprint Planning, Product Backlog Management, Jira
+- **UI/UX Design:** Figma, Wireframing, Interactive Prototyping
+- **Documentation:** Confluence, Markdown
+
+- ## 🛠️ Tools & Methodologies
+
+| Category | Skills & Tools |
+|----------|----------------|
+| **Business Analysis** | Business Requirements Gathering, BRD, FRD, Stakeholder Analysis, Process Mapping |
+| **Requirements Engineering** | User Stories, Acceptance Criteria, Functional Documentation |
+| **Agile** | Scrum, Sprint Planning, Product Backlog Management, Jira |
+| **Design & Prototyping** | Figma, Wireframing, UI Prototyping |
+| **Documentation** | Confluence, Markdown, PDF Documentation |
 ⸻
 
 ## 📈 Key Outcomes
