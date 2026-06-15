@@ -2,6 +2,20 @@
 
 An end-to-end Business Analysis case study focused on reducing customer churn through a structured subscription cancellation journey, personalized retention strategies, and Agile product planning.
 
+## 📑 Table of Contents
+
+- Project Overview
+- Business Problem
+- Proposed Solution
+- My Role
+- User Journey
+- Cancellation Workflow
+- Retention Offer Logic
+- Agile Planning
+- Stakeholder Analysis
+- Project Documentation
+- Tools & Methodologies
+- Key Outcomes
 ⸻
 
 ## 📌 Project Overview
@@ -57,7 +71,9 @@ As the Business Analyst, I was responsible for:
 
 The following prototype demonstrates the complete customer journey from initiating cancellation to either accepting a retention offer or completing cancellation.
 
-![User Journey](images/prototype-flow.png)
+<p align="center">
+  <img src="images/prototype-flow.png" width="700">
+</p>
 
 ⸻
 
@@ -71,15 +87,7 @@ The business process follows a structured decision flow to ensure every cancella
 
 ## 🎁 Retention Offer Logic
 
-Retention offers are generated dynamically based on the customer’s primary cancellation reason.
-
-Cancellation Reason	Retention Strategy
-Too Expensive	Discounted subscription offer
-Not Using Enough	Downgrade to lower plan
-Technical Issues	Service extension or support assistance
-Moving to Competitor	Temporary subscription pause
-
-The objective is to provide personalized interventions rather than generic cancellation experiences.
+Retention offers are generated dynamically based on the customer's primary cancellation reason. The following rule-based mapping demonstrates how personalized interventions are used to reduce churn.
 
 ![Retention Logic](images/retention-logic.png)
 
