@@ -4,7 +4,7 @@ An end-to-end Business Analysis case study focused on reducing customer churn th
 
 ⸻
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 Subscription-based businesses often struggle with customer churn due to ineffective cancellation experiences and limited visibility into why users leave. This project proposes a redesigned Subscription Cancellation & Retention Platform (SCRP) that captures meaningful feedback, provides personalized retention offers, and enables business teams to make data-driven decisions.
 
@@ -12,7 +12,7 @@ The solution combines business analysis, stakeholder management, functional docu
 
 ⸻
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 Traditional cancellation flows often:
 
@@ -37,7 +37,7 @@ The Subscription Cancellation & Retention Platform introduces a rule-based cance
 
 ⸻
 
-# 👩‍💼 My Role
+## 👩‍💼 My Role
 
 As the Business Analyst, I was responsible for:
 
@@ -53,7 +53,7 @@ As the Business Analyst, I was responsible for:
 
 ⸻
 
-# 🔄 User Journey
+## 🔄 User Journey
 
 The following prototype demonstrates the complete customer journey from initiating cancellation to either accepting a retention offer or completing cancellation.
 
@@ -61,7 +61,7 @@ The following prototype demonstrates the complete customer journey from initiati
 
 ⸻
 
-# ⚙️ Cancellation Workflow
+## ⚙️ Cancellation Workflow
 
 The business process follows a structured decision flow to ensure every cancellation request captures meaningful insights while maximizing retention opportunities.
 
@@ -69,7 +69,7 @@ The business process follows a structured decision flow to ensure every cancella
 
 ⸻
 
-# 🎁 Retention Offer Logic
+## 🎁 Retention Offer Logic
 
 Retention offers are generated dynamically based on the customer’s primary cancellation reason.
 
@@ -85,7 +85,7 @@ The objective is to provide personalized interventions rather than generic cance
 
 ⸻
 
-# 📋 Agile Planning & Sprint Management
+## 📋 Agile Planning & Sprint Management
 
 The project follows Agile principles by organizing functionality into prioritized user stories and sprint backlogs.
 
@@ -99,7 +99,7 @@ Development was divided into multiple sprints covering:
 
 ⸻
 
-# 👥 Stakeholder Requirements Analysis
+## 👥 Stakeholder Requirements Analysis
 
 Requirements were gathered and prioritized across multiple stakeholder groups including:
 
