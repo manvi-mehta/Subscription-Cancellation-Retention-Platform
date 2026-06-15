@@ -147,6 +147,7 @@ This ensured that both business objectives and user needs were incorporated into
 `Confluence` `Markdown`
 
 
+
 ## 🛠️ Skills Demonstrated
 
 - **Business Analysis:** Requirements Gathering, BRD, FRD, Stakeholder Analysis, Process Mapping
@@ -154,17 +155,6 @@ This ensured that both business objectives and user needs were incorporated into
 - **Agile & Scrum:** Sprint Planning, Product Backlog Management, Jira
 - **UI/UX Design:** Figma, Wireframing, Interactive Prototyping
 - **Documentation:** Confluence, Markdown
-
-
-- ## 🛠️ Tools & Methodologies
-
-| Category | Skills & Tools |
-|----------|----------------|
-| **Business Analysis** | Business Requirements Gathering, BRD, FRD, Stakeholder Analysis, Process Mapping |
-| **Requirements Engineering** | User Stories, Acceptance Criteria, Functional Documentation |
-| **Agile** | Scrum, Sprint Planning, Product Backlog Management, Jira |
-| **Design & Prototyping** | Figma, Wireframing, UI Prototyping |
-| **Documentation** | Confluence, Markdown, PDF Documentation |
 
 
 ⸻
