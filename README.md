@@ -172,29 +172,6 @@ Documentation
 
 ⸻
 
-## 🚀 Repository Structure
-
-subscription-cancellation-retention-platform/
-├── docs/
-│   ├── Agile-Planning.pdf
-│   ├── BRD.pdf
-│   ├── FRD.pdf
-│   ├── Project Overview.pdf
-│   ├── Stakeholder Requirements Analysis.pdf
-│   ├── User-Stories.pdf
-│   └── Wireframes-&-Prototypes.pdf
-│
-├── images/
-│   ├── agile-backlog.png
-│   ├── cancellation-workflow.png
-│   ├── prototype-flow.png
-│   ├── retention-logic.png
-│   └── stakeholder-analysis.png
-│
-└── README.md
-
-subscription-cancellation-retention-platform/
-
 ## 📁 Repository Structure
 
 ```text
