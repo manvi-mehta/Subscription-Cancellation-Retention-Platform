@@ -127,7 +127,7 @@ Requirements were gathered and prioritized across multiple stakeholder groups in
 This ensured that both business objectives and user needs were incorporated into the final solution.
 
 <p align="center">
-  <img src="images/takeholder-analysis.png" width="850">
+  <img src="images/stakeholder-analysis.png" width="850">
 </p>
 
 ⸻
