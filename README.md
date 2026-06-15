@@ -1,6 +1,4 @@
-# Subscription-Cancellation-Retention-Platform
-
-Subscription Cancellation & Retention Platform (SCRP)
+# Subscription Cancellation Retention Platform (SCRP)
 
 An end-to-end Business Analysis case study focused on reducing customer churn through a structured subscription cancellation journey, personalized retention strategies, and Agile product planning.
 
