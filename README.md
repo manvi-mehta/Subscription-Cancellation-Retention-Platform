@@ -1,6 +1,4 @@
 # Subscription Cancellation Retention Platform (SCRP)
-**Business Analysis • BRD • FRD • Agile • Jira • Confluence • Figma • User Stories • Stakeholder Analysis**
-
 `Business Analysis` `BRD` `FRD` `Agile` `Jira` `Confluence` `Figma` `User Stories`
 
 An end-to-end Business Analysis case study focused on reducing customer churn through a structured subscription cancellation journey, personalized retention strategies, and Agile product planning.
