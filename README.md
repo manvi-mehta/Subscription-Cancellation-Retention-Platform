@@ -4,8 +4,6 @@ Subscription Cancellation & Retention Platform (SCRP)
 
 An end-to-end Business Analysis case study focused on reducing customer churn through a structured subscription cancellation journey, personalized retention strategies, and Agile product planning.
 
-![User Journey](images/prototype-flow.png)
-
 ⸻
 
 📌 Project Overview
@@ -61,7 +59,7 @@ As the Business Analyst, I was responsible for:
 
 The following prototype demonstrates the complete customer journey from initiating cancellation to either accepting a retention offer or completing cancellation.
 
-
+![User Journey](images/prototype-flow.png)
 
 ⸻
 
@@ -83,6 +81,7 @@ Technical Issues	Service extension or support assistance
 Moving to Competitor	Temporary subscription pause
 
 The objective is to provide personalized interventions rather than generic cancellation experiences.
+
 ![Retention Logic](images/retention-logic.png)
 ⸻
 
@@ -95,6 +94,7 @@ Development was divided into multiple sprints covering:
 * Cancellation Workflow
 * Retention Features
 * Reporting & Analytics
+  
 ![Agile Planning](images/agile-backlog.png)
 ⸻
 
@@ -109,6 +109,7 @@ Requirements were gathered and prioritized across multiple stakeholder groups in
 * Executive Leadership
 
 This ensured that both business objectives and user needs were incorporated into the final solution.
+
 ![Stakeholder Analysis](images/stakeholder-analysis.png)
 ⸻
 
@@ -169,14 +170,6 @@ Documentation
 * Created interactive prototypes to validate user experience before development.
 * Established a scalable framework for capturing cancellation insights and improving retention decisions.
 
-
-![Business Analysis](https://img.shields.io/badge/Business-Analysis-blue)
-
-![Agile](https://img.shields.io/badge/Agile-Scrum-green)
-
-![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue)
-
-![Figma](https://img.shields.io/badge/Figma-Wireframes-orange)
 ⸻
 
 🚀 Repository Structure
