@@ -83,7 +83,7 @@ The following prototype demonstrates the complete customer journey from initiati
 The business process follows a structured decision flow to ensure every cancellation request captures meaningful insights while maximizing retention opportunities.
 
 <p align="center">
-  <img src="images/cancellation-workflow.png" width="850">
+  <img src="images/cancellation-workflow.png" width="700">
 </p>
 
 ⸻
@@ -93,7 +93,7 @@ The business process follows a structured decision flow to ensure every cancella
 Retention offers are generated dynamically based on the customer's primary cancellation reason. The following rule-based mapping demonstrates how personalized interventions are used to reduce churn.
 
 <p align="center">
-  <img src="images/retention-logic.png" width="850">
+  <img src="images/retention-logic.png" width="700">
 </p>
 
 ⸻
@@ -109,7 +109,7 @@ Development was divided into multiple sprints covering:
 * Reporting & Analytics
   
 <p align="center">
-  <img src="images/agile-backlog.png" width="850">
+  <img src="images/agile-backlog.png" width="700">
 </p>
 
 ⸻
@@ -127,7 +127,7 @@ Requirements were gathered and prioritized across multiple stakeholder groups in
 This ensured that both business objectives and user needs were incorporated into the final solution.
 
 <p align="center">
-  <img src="images/stakeholder-analysis.png" width="650">
+  <img src="images/stakeholder-analysis.png" width="600">
 </p>
 
 ⸻
