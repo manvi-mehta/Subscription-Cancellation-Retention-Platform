@@ -59,7 +59,7 @@ As the Business Analyst, I was responsible for:
 The following prototype demonstrates the complete customer journey from initiating cancellation to either accepting a retention offer or completing cancellation.
 
 <p align="center">
-  <img src="images/prototype-flow.png" width="700">
+  <img src="images/interactive-prototype.png" width="700">
 </p>
 
 ⸻
